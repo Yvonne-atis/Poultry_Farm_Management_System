@@ -1,0 +1,29 @@
+[INFO]	06:36:32	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down
+[INFO]	06:38:03	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down
+[INFO]	06:39:10	com.gt.uilib.components.AppFrame	loginSuccess	94	logged in
+[INFO]	07:04:44	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down
+[INFO]	07:44:22	com.gt.uilib.components.AppFrame	loginSuccess	94	logged in
+[INFO]	07:52:26	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down
+[INFO]	09:01:38	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	09:02:40	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down
+[INFO]	09:15:47	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down
+[INFO]	10:43:23	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	10:44:08	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	10:46:49	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	10:47:46	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	10:48:17	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	10:48:56	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	10:51:17	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	11:05:51	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	11:11:48	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	11:22:16	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	11:23:08	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	11:33:04	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	11:37:11	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	11:44:34	com.gt.common.AppStarter	notFindExisting	35	Connection accepted by already running app
+[INFO]	11:45:18	com.gt.uilib.components.AppFrame	loginSuccess	94	logged in
+[INFO]	11:48:00	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down
+[INFO]	11:50:08	com.gt.uilib.components.AppFrame	loginSuccess	94	logged in
+[INFO]	12:04:13	com.gt.uilib.components.AppFrame	loginSuccess	94	logged in
+[INFO]	04:44:36	com.gt.uilib.components.AppFrame	loginSuccess	94	logged in
+[INFO]	04:48:10	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down

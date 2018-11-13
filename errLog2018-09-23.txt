@@ -1,0 +1,2 @@
+[INFO]	12:02:57	com.gt.uilib.components.AppFrame	loginSuccess	95	logged in
+[INFO]	12:03:08	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down

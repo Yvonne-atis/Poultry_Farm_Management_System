@@ -1,0 +1,3 @@
+[INFO]	10:37:59	com.gt.common.AppStarter	notFindExisting	38	Connection accepted by already running app
+[INFO]	10:38:52	com.gt.uilib.components.AppFrame	loginSuccess	95	logged in
+[INFO]	10:57:27	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down

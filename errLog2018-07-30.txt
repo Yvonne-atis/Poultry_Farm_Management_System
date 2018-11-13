@@ -1,0 +1,6 @@
+[INFO]	03:06:47	com.gt.uilib.components.AppFrame	loginSuccess	95	logged in
+[INFO]	03:08:03	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down
+[INFO]	03:13:22	com.gt.uilib.components.AppFrame	loginSuccess	95	logged in
+[INFO]	03:14:24	com.gt.uilib.components.AppFrame	loginSuccess	95	logged in
+[INFO]	03:29:13	com.gt.uilib.components.AppFrame	loginSuccess	95	logged in
+[INFO]	03:29:53	com.gt.uilib.components.button.ExitButton	handleExit	38	Shutting Down
