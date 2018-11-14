@@ -1,6 +1,6 @@
-## Inventory Management System - desktop based 
+## Poultry_Farm_Management_System - desktop based 
 
-##### Note:I wrote this as a test project to practice DBMS/Java/Hibernate/Swing during my early days of programming (2011-2012). 
+##### Note:I wrote this as a test project to practice DBMS/Java/Hibernate/Swing. 
 
 #### This uses following libraries/frameworks
 - Swing 
@@ -12,7 +12,7 @@
 #### How to run the application
 - Clone/Download the project and import into your IDE
 - Run com.ca.ui.Main as Java Application
-- Enter ADMIN/ADMIN for username and password
+- Enter IVONEE/eveever for username and password
 
 ##### Configuration and Data
 - Use 'Entry' -> 'Initial Records' menu to enter configuration such as  product category, vendor, measurement unit, branch office etc
@@ -20,12 +20,7 @@
 
 ## You can use this project as a template to build out your projects! I believe the code is simple enough to understand the overall flow and add/modify modules.
 
-### For any queries :
-- Email : gtiwari333@gmail.com
-- Blog : http://ganeshtiwaridotcomdotnp.blogspot.com/ 
-
-
-##### CopyLeft:
+ CopyLeft:
 - Please feel free to use/modify the code! 
 - But make sure to give me credit by keeping the class header or add reference to this GitHub repository.
   
